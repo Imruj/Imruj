@@ -1,10 +1,10 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/211eed62-fbbb-410a-9c8e-f2f25c9ec445" />
 <h1 align="center">Let's call me Chokoon</h1>
 <h3 align="center">A Scius Program Student</h3>
 
-- -- My current goal is **Thailand olympiad in informatic**
+- My current goal is **Thailand olympiad in informatic**
 
-- -- I'm working on **OSA Detection Application**
+- I'm working on **OSA Detection Application**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
