@@ -10,5 +10,5 @@
    I'm currenly a student on Scius UBU program
 </h2>
 <p align="center">
-<a href="https://www.instagram.com/ruj_naja"><img src="https://img.shields.io/badge/ruj_naja_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/ruj_naja"><img src="https://img.shields.io/badge/ruj__naja_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </p>
