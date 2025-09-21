@@ -1,6 +1,6 @@
-<h3 align = "center>
+<picture>
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae0/512.gif" alt="🫠" width="32" height="32">
-</h3>
+</picture>
 <h1 align = "center">
    About Chokoon
 </h1>
