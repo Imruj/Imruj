@@ -1,4 +1,4 @@
-<picture align = "center>
+<picture align = "center">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae0/512.gif" alt="🫠" width="80" height="80">
 </picture>
 <h1 align = "center">
