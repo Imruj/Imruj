@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/211eed62-fbbb-410a-9c8e-f2f25c9ec445" />
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/211eed62-fbbb-410a-9c8e-f2f25c9ec445.gif" />
 <h1 align="center">Let's call me Chokoon</h1>
 <h3 align="center">A Scius Program Student</h3>
 
