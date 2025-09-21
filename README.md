@@ -12,3 +12,5 @@
 <p align="center">
 <a href="https://www.instagram.com/ruj_naja"><img src="https://img.shields.io/badge/ruj__naja.exe_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </p>
+
+## 
