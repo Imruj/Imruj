@@ -1,12 +1,14 @@
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <h1 align="center">Let's call me Chokoon</h1>
 <h3 align="center">A Scius Program Student</h3>
 
-- 🔭 My current goal is **Thailand olympiad in informatic**
+- -- My current goal is **Thailand olympiad in informatic**
 
-- 👯 I'm working on **OSA Detection Application**
+- -- I'm working on **OSA Detection Application**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.youtube.com/c/rujkub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rujkub" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
